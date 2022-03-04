@@ -27,6 +27,8 @@ This assignment will challenge you to polish your FinTech research skills by acc
 **Note:** We covered a number of FinTech domains in class this week. If you already have a company in mind that you want to research, skip ahead to Step 3.
 
 * Payments/Billing
+Research Done 
+
 
 * Capital Investment
 
