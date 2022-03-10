@@ -1,256 +1,57 @@
-# Unit 1 Homework Assignment: FinTech Case Study
 
-## Background
+# InterPrice
 
-As a FinTech professional, it is critical to learn how FinTech companies start, evolve, and grow, and to be able to speak knowledgeably about the major players in the FinTech space. Even those in a highly technical role must stay abreast of what is happening in the business landscape, as many FinTech companies create tools and technologies that are then used by other companies.
-
-One of the key methods used to conduct corporate analysis is the **case study**. Case studies are often 50–100 pages or more, but your task is to create a more focused case study that analyzes how a FinTech company is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem.
-
-In this homework assignment, you will:
-
-* Select a Fintech domain that interests you, and then choose a company or project within that domain.
-
-* Research the domain and company.
-
-* Write a detailed case study of the company.
-
-* Upload your case study to your git repository.
-
-This assignment will challenge you to polish your FinTech research skills by accessing reports, publications, and online resources that FinTech professionals use to evaluate the industry. It will also help you situate the techniques and technologies you will be mastering in this course––e.g., machine learning, Python, modeling, blockchain––within the real world of global FinTech. Finally, it will give you practice presenting and speaking about FinTech strategy and technology.
-
----
-
-## Instructions
-
-### 1. Choose a FinTech domain that you find relevant or interesting.
-
-**Note:** We covered a number of FinTech domains in class this week. If you already have a company in mind that you want to research, skip ahead to Step 3.
-
-* Payments/Billing
-
-* Capital Investment
-
-* Investment Management
-
-* Wealth Management
-
-* Enterprise Solutions
-
-* Insurance (InsurTech)
-
-* Mortgage/Real Estate
-
-* Personal Finance/Deposits/Online Banking
-
-* Lending
-
-* Blockchain and Cryptocurrencies
-
-* Regulation Technology (RegTech)
-
-* Open Banking
-
-* Robo-advising
-
-Remember that because FinTech is an evolving field, different FinTech reports may use different names and definitions for various domains and sectors (e.g., CB Insights, Investopedia, Accenture). In addition, you may come across lists of FinTech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
-
-### 2. Choose a company (or project) within  your chosen Fintech domain.
-
-Use online research to identify the trends in your domain, and choose a company that is successful or otherwise interesting to you. For example, if you chose Wealth Management, you may want to look at online journals, periodicals, reports, and websites about the future of Wealth Management, or how FinTech is changing or disrupting Wealth Management.
-
-Your company could be:
-
-* A new, emerging FinTech company that is doing well in a particular domain. Examples include Square, Plaid, Lemonade, RobinHood, and Coinbase.
-
-* A large incumbent financial or technology company that is doing something interesting and new with technology. Examples include Goldman Sachs’ Marcus, JP Morgan’s JPMCoin, Facebook Libra, and Apple Card.
-
-* A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a FinTech company in your local area or a company with a new idea that you would like to learn more about.
-
-### 3. Conduct your research, using the case study template as a guide.
-
-We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
-
-**Note** If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
-
-**Case Study Template**
-
-```
-# TITLE
+![](https://d1wmbnr2hhrqlx.cloudfront.net/_610xAUTO_crop_center-center_85_none/logo_transparent.jpg)
 
 ## Overview and Origin
 
-* Name of company
+* InterPrice Technologies, founded 2020 by by Olga Chin (Current CEO)
 
-* When was the company incorporated?
+* Olga worked in Capital Markets team helping corporations issue debt to finance their operations, and learned about the serious lack of transparency on that side of the business. She left her job at MUFG syndicating deals to start InterPrice in 2019, and never looked back.   
 
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+* The company has received 1 round of funding, announced on March 8, 2021, for the amount of 2.5MM USD. 4 Venture Capital Firms headline their seed funding: Operator Partners, Browery Capital, Dash Fund, and Chaos Ventures. This was a Class A funding.
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* The efficient financing ones business is fundamental to the success of any firm. Financing is accomplished through many different channels using many different kinds of debt that are traded and valued differently across many exchanges. Quotations are always changing, meaning that a firms cost of financing is equally as dynamic. InterPrice is a way to simplify the process, and allows for a clearer look into a firms true cost of capital. InterPrice provides a platform that aggregates indications and displays real time and historical borrowing costs. The result is a clear picture into a firms financing, and gives business owners the confidence to make accurate and informed financing decisions while saving time and many, many basis points. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* InterPrice's customers include financing entities (sell side) and those seeking financing, the buy side. Specifically, and most importantly, they are searching for corporate debt issuers in capital markets to integrate  onto their platform. Eventually, the team is hoping to create a sort of subsidiary capital market that uses bank indications on corporate debt to decrease the costs of both sides of the transaction. It will provide an easy platform for corporate debt issuers to sell their debt to firms looking for yield on Cash. This will decrease the cost of funding for the firm raising money, and increase the yield of the cash investment. This has the possibility to massively increase InterPrice's strangle over the Capital Markets world, and an change the layout of the market. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* They create softwear in hous in a cloud based server that hosts the domain for the product. 
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* As mentioned a few times, the "domain" of the firm is in the Debt Capital Markets space. 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* The Corporate Debt model of raising financing is extremely old, aged, expensive, yet necessary. The market for corporate and government debt easily is in the Trillions in market value, and the way this debt is issued has not changed in many years. Underwriters price the likelihood a firm is to repay an amount of debt, the bond is assigned a credit rating, and then offer directly into a secondary market through the unwriting entity, usually a large bank or financial institution. What InerPrice is looking to solve is the transparency of information using this process. To know what upcoming issuance would cost, one would need to get an indication from a handful of underwriting entities, aggregate those, and hope that by the time they are done comparing the data, interest rate conditions have not changed drastically enough to render those indications worthless. There have been many innovations in the way firms buy and sell these, get quotes for secondary market data, but nothing notable for the Corporations debt issuance. InterPrice will streamline this process, and modernize debt issuance in a way that the Banking world is not completely ready for.
 
-* What are the other major companies in this domain?
+* There are some big names that provide transparency on the accounting side of Corporate treasury, which is an important part of the financing picture (to know just how liquid you are) but not a perfect representation of what it would hypothetically cost a firm to issue short term debt. 
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* InterPrice has seen widespread success onboarding Corporate Treasury clients to their platform. They are seeing that clients mostly appreciate the time they save by not having to wait for indications on debt issuance; rather, they are able to work on more value add projects. This means that the opportunity cost that the InterPrice platform saves massively outweighs it price. In addition, InterPrice is dynamic enough to tailor to the needs of the clients.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* The most important utilization of the InterPrice platform is certainly User Engagement. They have different buckets that they put clients in regarding engagement, ranging from Ver Engaged to Hardly engaged. They measure this engagement through a number of empiracle measures (clicks, refreshes, follow ups, requests to InterPrice tech team) as well as weekly calls with clients, creating a line of communication. 
 
-* How is your company performing relative to competitors in the same domain?
+* Interprice is a disruptor, and has seen some early success. They have paying clients shortly after their first round of funding, and are hoping to raise mor capital soon. Since they have such a unique model, they don’t have any competitors that they can measure up against. Interestingly enough, they are seeing some push back from Ban entities, claiming that their indications are confidential information, and should not be able to be digested into a platform. InterPrice solved this problem through a series of NDAs. In short, they are doing well, and hoping to continue to grow in the space. 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
+* The immediate problem that I see with InterPrice is a lack of an ability understand how often their clients are using the platform. They can see how often Data is pulled, but it is difficult to know if the clients are using the platform to finalize funding with the banks on the platform, or if it is just window dressing for the Financial side of the fir, I would suggest they invest in some better data collection technology to understand client engagement better. I believe, also, they should expand the peer - to - peer financing model that they are considering using. This could create a whole sub market that could prove extremely profitable to InterPrice. It would be using Bank data to quote cost of capital, but executing the transactions seperate from those financial institutions. This could disrupt the industry greatly, much for then a visual platform ever could. 
 
 * Why are these technologies appropriate for your solution?
-```
-
-### 4. Write the case study.
-
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
 
 
-### 5. Upload your case study to your git repository.
+Sources: 
 
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+[Podcast](https://treasurytalent.com/olga-chin-ceo-of-interprice-technologies-episode-130/)
 
----
+[InterPrice Homepage](https://interpricetech.com/)  
 
-## Resources
+[Financing News](https://www.finsmes.com/2021/03/interprice-technologies-raises-2-5m-in-seed-funding.html)
 
-### FinTech Companies and Domains
 
-For an overview of some of the most successful companies across FinTech domains, check out these resources:
-
-* [The 11 Biggest FinTech Companies in America 2019, Forbes](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/#5e6a3bc932b9)
-
-* [World FinTech Report 2019, Capgemini](https://fintechworldreport.com/)
-
-* [The Most Innovative FinTech Companies in 2019, Forbes](https://www.forbes.com/fintech/2019/#5264de5a2b4c)
-
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
-
-* [Hottest FinTech Startups, Business Insider](https://www.businessinsider.com/top-fintech-startup-companies)
-
-* [Top 10 FinTech Companies to Watch in 2019, TheStreet](https://www.thestreet.com/technology/fintech-companies-14891479)
-
-* [33 FinTech Companies and Startups to Keep in Your Back Pocket, Built In](https://builtin.com/fintech/fintech-companies-startups-to-know)
-
-* [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
-
-### Research Material
-
-As you research your company, you may find these types resources to be useful:
-
-* The company’s website
-
-* The company’s blog
-
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
-
-* Websites of competitors
-
-* FinTech blogs and/or podcasts
-
-* Interviews with the company’s founders, CTOs, or project leads
-
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
-
-* [Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
-
-* [McKinsey & Company](https://www.mckinsey.com/featured-insights/fintech)
-
-* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
-
-* [TechCrunch](https://techcrunch.com/tag/fintech/)
-
-* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
-
-* [Built In](https://builtin.com/fintech)
-
-* [FinTech Weekly](https://www.fintechweekly.com/)
-
-* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
-
-* [Stackshare](https://stackshare.io/)
-
-* [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
-
-* [Angelist](https://angel.co/finance-technology)
-
-### Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
-
----
-### Requirements
-
-#### Company Information and Business Activities  (25 points)
-
-##### To receive all points, you must:
-
-* Select a company in the FinTech domain to research. (5 points)
-* Provide a detailed description of the company's domain, audience, solution and business metrics. (10 points)
-* Present company information in a clear and well-organized manner. (10 points)
-
-#### FinTech Domain Trends (20 points)
-
-##### To receive all points, your code must:
-
-* Communicate a thorough synopsis of trends and landmarks in the chosen FinTech domain. (10 points)
-* Identify several major competitors. (10 points)
-
-#### Research Depth (15 points)
-
-##### To receive all points, your code must:
-
-* Use multiple sources to present a thorough and cohesive view of the company's domain, history and results. (5 points)
-* Specifically quote sources and reference them clearly and accurately. (10 points)
-
-#### Recommendations (20 points)
-
-##### To receive all points, your code must:
-
-* Thoroughly explain company recommendations. (10 points)
-* Base company recommendations in solid research. (10 points)
-
-#### Report Presentation (20 points)
-
-##### To receive all points, your report must include:
-
-* Present the report in a ReadME.md file in a Github repository. (10 points)
-* The report style showcases the writer's expertise and builds credibility. (10 points)
-
-- - -
-
-© 2021 Trilogy Education Services
