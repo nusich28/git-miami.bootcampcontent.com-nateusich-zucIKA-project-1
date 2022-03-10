@@ -9,7 +9,7 @@ Taking FinTech Class
 ## Link to Nates Linkedin is below: 
 [Linked_in](https://www.linkedin.com/in/nathanielusich28/)
 
-## Link to Nates College Lacrosse Team's Game belwo 
+## Link to Nates College Lacrosse Team's Game below 
 [Lacrosse Team Link](https://www.centennialconference.tv/dickinsonathletics/)
 
 ## Go Red Devils 
