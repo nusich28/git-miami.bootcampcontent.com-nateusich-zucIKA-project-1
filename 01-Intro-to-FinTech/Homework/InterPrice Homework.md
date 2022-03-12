@@ -69,4 +69,4 @@ Sources:
 
 [InterPrice Homepage](https://interpricetech.com/)  
 
-[Financing News](https://www.finsmes.com/2021/03/interprice-technologies-raises-2-5m-in-seed-funding.html
+[Financing News](https://www.finsmes.com/2021/03/interprice-technologies-raises-2-5m-in-seed-funding.html)
