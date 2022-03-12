@@ -54,7 +54,7 @@
 
 *  ***How is your company performing relative to competitors in the same domain?***
 
-* * Interprice is a disruptor, and has seen some early success. They have paying clients shortly after their first round of funding, and are hoping to raise mor capital soon. Since they have such a unique model, they don’t have any competitors that they can measure up against. Interestingly enough, they are seeing some push back from Ban entities, claiming that their indications are confidential information, and should not be able to be digested into a platform. InterPrice solved this problem through a series of NDAs. In short, they are doing well, and hoping to continue to grow in the space.
+* Interprice is a disruptor, and has seen some early success. They have paying clients shortly after their first round of funding, and are hoping to raise mor capital soon. Since they have such a unique model, they don’t have any competitors that they can measure up against. Interestingly enough, they are seeing some push back from Ban entities, claiming that their indications are confidential information, and should not be able to be digested into a platform. InterPrice solved this problem through a series of NDAs. In short, they are doing well, and hoping to continue to grow in the space.
 
 
 ## Recommendations
